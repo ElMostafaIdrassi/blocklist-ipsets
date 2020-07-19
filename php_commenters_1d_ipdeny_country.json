@@ -1,0 +1,46 @@
+[
+	{
+		"code": "AR",
+		"value": 1
+	},
+	{
+		"code": "BR",
+		"value": 1
+	},
+	{
+		"code": "DE",
+		"value": 4
+	},
+	{
+		"code": "GE",
+		"value": 1
+	},
+	{
+		"code": "HK",
+		"value": 1
+	},
+	{
+		"code": "IN",
+		"value": 1
+	},
+	{
+		"code": "JP",
+		"value": 12
+	},
+	{
+		"code": "KR",
+		"value": 2
+	},
+	{
+		"code": "RU",
+		"value": 4
+	},
+	{
+		"code": "UA",
+		"value": 2
+	},
+	{
+		"code": "US",
+		"value": 21
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 1062,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 17905,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 880,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_1_7d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_2_30d",
+		"category": "attacks",
+		"ips": 9,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 152,
+		"common": 1
+	}
+]

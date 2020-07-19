@@ -1,0 +1,146 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 32053,
+		"common": 17
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 1062,
+		"common": 1
+	},
+	{
+		"name": "bi_asterisk_0_1d",
+		"category": "attacks",
+		"ips": 39,
+		"common": 2
+	},
+	{
+		"name": "bi_sip_1_7d",
+		"category": "attacks",
+		"ips": 2,
+		"common": 1
+	},
+	{
+		"name": "bi_voip_0_1d",
+		"category": "attacks",
+		"ips": 54,
+		"common": 17
+	},
+	{
+		"name": "bi_voip_1_7d",
+		"category": "attacks",
+		"ips": 4,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 30928,
+		"common": 3
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 2515,
+		"common": 3
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 26368,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 13312,
+		"common": 1
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 19399192,
+		"common": 1
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 19393792,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 619590879,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39360,
+		"common": 3
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 44958,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9306939,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 8802048,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 756667872,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338114646,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 19393792,
+		"common": 1
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 19459328,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 33967,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 13600,
+		"common": 7
+	}
+]

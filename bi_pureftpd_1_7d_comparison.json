@@ -1,0 +1,86 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 275630,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 17917,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_2_30d",
+		"category": "attacks",
+		"ips": 9,
+		"common": 1
+	},
+	{
+		"name": "bi_pureftpd_2_30d",
+		"category": "attacks",
+		"ips": 3,
+		"common": 1
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 40940,
+		"common": 1
+	},
+	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 1461999,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 41199,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9307224,
+		"common": 1
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 1447074,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 3632,
+		"common": 1
+	},
+	{
+		"name": "ip2proxy_px1lite",
+		"category": "anonymizers",
+		"ips": 1440433,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 33967,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 178,
+		"common": 1
+	}
+]

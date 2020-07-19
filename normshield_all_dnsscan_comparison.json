@@ -1,0 +1,86 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 275630,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 32053,
+		"common": 1
+	},
+	{
+		"name": "bi_apache-noscript_0_1d",
+		"category": "attacks",
+		"ips": 73,
+		"common": 1
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 272,
+		"common": 1
+	},
+	{
+		"name": "bi_badbots_0_1d",
+		"category": "attacks",
+		"ips": 17869,
+		"common": 1
+	},
+	{
+		"name": "bi_bruteforce_0_1d",
+		"category": "attacks",
+		"ips": 18052,
+		"common": 1
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 845,
+		"common": 1
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 40762,
+		"common": 1
+	},
+	{
+		"name": "dronebl_worms_bots",
+		"category": "malware",
+		"ips": 196916,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9306939,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 917,
+		"common": 1
+	},
+	{
+		"name": "normshield_high_attack",
+		"category": "attacks",
+		"ips": 917,
+		"common": 1
+	},
+	{
+		"name": "normshield_high_dnsscan",
+		"category": "attacks",
+		"ips": 2,
+		"common": 2
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 33967,
+		"common": 1
+	}
+]
